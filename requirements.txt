@@ -1,0 +1,5 @@
+python-telegram-bot[webhooks]==21.9
+requests
+SpeechRecognition
+pydub
+ffmpeg-python
